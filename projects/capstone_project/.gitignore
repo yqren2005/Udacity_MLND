@@ -1,0 +1,12 @@
+.DS_Store
+NSL-KDD/
+*.hdf5
+.ipynb_checkpoints/
+corrected
+*.xlsx
+*.docx
+*.zip
+*.html
+KDD-Copy1.ipynb
+figures/
+
