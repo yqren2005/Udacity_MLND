@@ -73,6 +73,6 @@ requirements
 *.html
 requirements/
 logs/
-images/
+
 smartcab/
 capstone_project/
