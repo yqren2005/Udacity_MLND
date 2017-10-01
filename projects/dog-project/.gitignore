@@ -7,7 +7,7 @@ __pycache__/
 additional_images/
 haarcascades/
 bottleneck_features/
-images/
+
 requirements/
 *.zip
 *.html
