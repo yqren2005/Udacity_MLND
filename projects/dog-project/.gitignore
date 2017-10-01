@@ -1,0 +1,14 @@
+.DS_Store
+dogImages/
+lfw/
+saved_models/
+__pycache__/
+.ipynb_checkpoints/
+additional_images/
+haarcascades/
+bottleneck_features/
+images/
+requirements/
+*.zip
+*.html
+
